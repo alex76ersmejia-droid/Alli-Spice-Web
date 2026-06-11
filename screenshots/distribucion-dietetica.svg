@@ -1,0 +1,21 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" rx="30" fill="#0B2237"/>
+  <rect x="26" y="26" width="848" height="568" rx="24" fill="#112F49" stroke="#1F4A68" stroke-width="2"/>
+  <rect x="54" y="56" width="244" height="52" rx="18" fill="#74D0FF"/>
+  <rect x="322" y="56" width="220" height="52" rx="18" fill="#173D5D"/>
+  <rect x="566" y="56" width="280" height="52" rx="18" fill="#173D5D"/>
+  <rect x="54" y="138" width="792" height="188" rx="22" fill="#0B243A"/>
+  <rect x="82" y="168" width="736" height="26" rx="13" fill="#EAF5FE"/>
+  <rect x="82" y="214" width="736" height="14" rx="7" fill="#C0D6E8" fill-opacity="0.55"/>
+  <rect x="82" y="246" width="736" height="14" rx="7" fill="#C0D6E8" fill-opacity="0.35"/>
+  <rect x="82" y="278" width="736" height="14" rx="7" fill="#C0D6E8" fill-opacity="0.35"/>
+  <rect x="54" y="354" width="378" height="210" rx="22" fill="#133958"/>
+  <rect x="468" y="354" width="378" height="210" rx="22" fill="#133958"/>
+  <rect x="86" y="392" width="178" height="18" rx="9" fill="#FFD56B"/>
+  <rect x="86" y="430" width="306" height="12" rx="6" fill="#DCEBFA" fill-opacity="0.65"/>
+  <rect x="86" y="458" width="278" height="12" rx="6" fill="#DCEBFA" fill-opacity="0.35"/>
+  <rect x="500" y="392" width="198" height="18" rx="9" fill="#74D0FF"/>
+  <rect x="500" y="430" width="306" height="12" rx="6" fill="#DCEBFA" fill-opacity="0.65"/>
+  <rect x="500" y="458" width="286" height="12" rx="6" fill="#DCEBFA" fill-opacity="0.35"/>
+  <text x="86" y="530" fill="#EAF5FE" font-family="Arial, sans-serif" font-size="26" font-weight="700">Distribución Dietética</text>
+</svg>

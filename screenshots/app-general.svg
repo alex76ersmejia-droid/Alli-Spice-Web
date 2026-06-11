@@ -1,0 +1,26 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#0A2136"/>
+  <rect x="28" y="28" width="1144" height="704" rx="28" fill="#0F2E49" stroke="#204B6B" stroke-width="2"/>
+  <rect x="56" y="56" width="252" height="648" rx="22" fill="#0A1B2C"/>
+  <rect x="86" y="94" width="160" height="24" rx="12" fill="#74D0FF"/>
+  <rect x="86" y="148" width="188" height="16" rx="8" fill="#D8ECFA" fill-opacity="0.9"/>
+  <rect x="86" y="188" width="172" height="16" rx="8" fill="#D8ECFA" fill-opacity="0.35"/>
+  <rect x="86" y="228" width="182" height="16" rx="8" fill="#D8ECFA" fill-opacity="0.35"/>
+  <rect x="86" y="268" width="164" height="16" rx="8" fill="#D8ECFA" fill-opacity="0.35"/>
+  <rect x="86" y="308" width="176" height="16" rx="8" fill="#D8ECFA" fill-opacity="0.35"/>
+  <rect x="86" y="348" width="170" height="16" rx="8" fill="#D8ECFA" fill-opacity="0.35"/>
+  <rect x="340" y="56" width="804" height="92" rx="22" fill="#112F49"/>
+  <rect x="376" y="92" width="286" height="22" rx="11" fill="#F3F8FC"/>
+  <rect x="690" y="95" width="154" height="16" rx="8" fill="#C0D6E8" fill-opacity="0.55"/>
+  <rect x="866" y="95" width="108" height="16" rx="8" fill="#FFD56B"/>
+  <rect x="340" y="176" width="804" height="256" rx="24" fill="#0B243A"/>
+  <rect x="372" y="208" width="210" height="170" rx="20" fill="#133958"/>
+  <rect x="606" y="208" width="250" height="170" rx="20" fill="#133958"/>
+  <rect x="880" y="208" width="232" height="170" rx="20" fill="#133958"/>
+  <rect x="372" y="466" width="740" height="206" rx="24" fill="#112F49"/>
+  <rect x="404" y="502" width="194" height="18" rx="9" fill="#F2F7FB"/>
+  <rect x="404" y="540" width="676" height="12" rx="6" fill="#C0D6E8" fill-opacity="0.55"/>
+  <rect x="404" y="570" width="644" height="12" rx="6" fill="#C0D6E8" fill-opacity="0.35"/>
+  <rect x="404" y="600" width="618" height="12" rx="6" fill="#C0D6E8" fill-opacity="0.35"/>
+  <text x="404" y="650" fill="#74D0FF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Vista general del ecosistema clínico</text>
+</svg>
