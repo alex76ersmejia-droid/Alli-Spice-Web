@@ -277,6 +277,40 @@ body::before {
   font-size: 0.94rem;
 }
 
+.legal-actions {
+  margin-top: 18px;
+}
+
+.download-legal-note,
+.legal-intro {
+  color: var(--muted);
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+.legal-page .feature-section {
+  padding-top: 28px;
+}
+
+.legal-article {
+  padding: 28px;
+  border-radius: 24px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.legal-article h3 {
+  margin: 0 0 10px;
+  font-size: 1.05rem;
+}
+
+.legal-article p {
+  margin: 0 0 20px;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
 .metric-grid {
   display: grid;
   gap: 16px;
